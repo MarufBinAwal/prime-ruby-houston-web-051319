@@ -1,5 +1,5 @@
 def prime?(n)
-  (2..n-1).each? {
+  (2..n-1).each? {|int|
   
 end
 
