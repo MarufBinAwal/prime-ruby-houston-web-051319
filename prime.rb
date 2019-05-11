@@ -1,5 +1,6 @@
 def prime?(n)
   
+  
 end
 
 
